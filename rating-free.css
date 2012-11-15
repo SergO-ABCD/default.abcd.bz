@@ -7,7 +7,7 @@
 /* personals */
 #dropdown-user-menu .item-stat {display: none;}
 .profile .vote-profile, .profile .strength {display: none;}
-#users-list-original .cell-skill, #users-list-original .cell-rating {display: none;}
+.table-users .cell-skill, .table-users .cell-rating {display: none;}
 
 /* categories */
 .blog-top .vote-topic {display: none;}
