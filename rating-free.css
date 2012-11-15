@@ -1,0 +1,15 @@
+/* comments */
+.comment-info .vote {display: none;}
+
+/* topics */
+.topic-info-vote {display: none;}
+
+/* personals */
+#dropdown-user-menu .item-stat {display: none;}
+.profile .vote-profile, .profile .strength {display: none;}
+#users-list-original .cell-skill, #users-list-original .cell-rating {display: none;}
+
+/* categories */
+.blog-top .vote-topic {display: none;}
+#blogs-list-original .cell-rating {display: none;}
+#block_blogs .block-blog-list strong {display: none;}
